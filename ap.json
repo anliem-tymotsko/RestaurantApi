@@ -1,6 +1,7 @@
 {
-    "id: "1",   
-    "imgSrcUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYIMuTPjjQXNtiSB_FtvRUeZht4nVrYmExw&usqp=CAU"
+    { "id: "1",   
+    "imgSrcUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYIMuTPjjQXNtiSB_FtvRUeZht4nVrYmExw&usqp=CAU",
     "type": "rent",
     "price": 24.64
+}
 }
