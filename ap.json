@@ -1,20 +1,20 @@
 [{
     "price": 24,
     "id": "1",  
-    "type": "desert",
+    "type": "rent",
     "imgSrcUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYIMuTPjjQXNtiSB_FtvRUeZht4nVrYmExw&usqp=CAU"
    
 },
 {
     "price": 24,
     "id": "1",  
-    "type": "desert",
+    "type": "rent",
     "imgSrcUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYIMuTPjjQXNtiSB_FtvRUeZht4nVrYmExw&usqp=CAU"
    
 },{
     "price": 24,
     "id": "1",  
-    "type": "coctail",
+    "type": "buy",
     "imgSrcUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYIMuTPjjQXNtiSB_FtvRUeZht4nVrYmExw&usqp=CAU"
    
 }]
